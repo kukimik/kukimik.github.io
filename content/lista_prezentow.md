@@ -1,0 +1,12 @@
+- szlifierka kątowa
+- młynek do kawy ręczny, żarnowy, może być używany
+- suszarka do ziół
+- Płyty CD:
+    - Osiris - Osiris
+    - Osiris - Myth & Legend 
+    - Osiris - Reflection
+    - Osiris - Beyond Control
+    - Osiris - Visions from the Past
+    - Osiris - Tales of The Divers
+    - Renaissance - 
+    - Sister Irene O'Connor - Fire of God's Love
