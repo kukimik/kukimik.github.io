@@ -9,7 +9,7 @@ template:
 
   # You can add your own variables here, like editBaseUrl.
   # See after-note.tpl to see where editBaseUrl gets used.
-  editBaseUrl: https://github.com/kukimik/partially-ordered-notes/edit/master/content
+  editBaseUrl: https://github.com/kukimik/kukimik.github.io/edit/master/content
 
   # Uncomment this to get neuron-style pages
   # name: /templates/layouts/note
