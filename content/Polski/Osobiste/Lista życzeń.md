@@ -1,15 +1,16 @@
 # Lista życzeń
 
-Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktualizowana stosunkowo często lista życzeń.
+Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktualizowana stosunkowo często lista życzeń. Przedmioty mogą być używane, byle w dobrym stanie.
 
 ## Różne przedmioty
 
 - szlifierka kątowa
-- młynek do kawy ręczny, żarnowy, może być używany
+- ręczny, żarnowy młynek do kawy
 - suszarka do ziół
 
 ## Płyty CD
 
+- Kazik i Kwartet ProForma - Tata Kazika kontra Hedora
 - Osiris - Osiris
 - Osiris - Myth & Legend 
 - Osiris - Reflection
@@ -21,9 +22,9 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 - Renaissance - Turn of the Cards
 - Renaissance - Scheherazade and Other Stories
 - Renaissance - A Song for All Seasons
-- Sigur Ros - Von
 - Sigur Ros - Ágætis byrjun
 - Sigur Ros - ( )
+- Sigur Ros - Kveikur
 - Sister Irene O'Connor - Fire of God's Love
 
 ## Książki
@@ -37,3 +38,7 @@ Zamiast dawać mi prezent, możesz wesprzeć instytucję robiącą coś dobrego,
 - [Polską Akcję Humanitarną](https://pah.org.pl)
 - [Fundację HAART Poland](https://haartpoland.org)
 - [Stowarzyszenie Dzieciom i Młodzieży Wędka im. każdego Człowieka](https://wedka.org/)
+
+## Niematerialne
+
+- Pomódl się za mnie, o to co potrzebne abym był dobrym mężem, tatą, pracownikiem, znajomym, dobrym człowiekiem, pełniącym wolę mojego Ojca w Niebie.
