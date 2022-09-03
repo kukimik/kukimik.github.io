@@ -10,13 +10,25 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 
 ## Płyty CD
 
+- Farben Lehre - Bez pokory
+- Farben Lehre - My maszyny
+- Farben Lehre - Nierealne ogniska
+- Farben Lehre - Insekty
+- Farben Lehre - Zdrada
+- Farben Lehre - Garażówka
+- Farben Lehre - Atomowe zabawki
+- Farben Lehre - Pozytywka
+- Jethro Tull - Aqualung
 - Kazik i Kwartet ProForma - Tata Kazika kontra Hedora
+- Naiv - Naiv
+- Naiv - Przedświt
 - Osiris - Osiris
 - Osiris - Myth & Legend 
 - Osiris - Reflection
 - Osiris - Beyond Control
 - Osiris - Visions from the Past
 - Osiris - Tales of The Divers
+- Pink Floyd - Wish You Were Here
 - Renaissance - Prologue
 - Renaissance - Ashes Are Burning
 - Renaissance - Turn of the Cards
@@ -26,6 +38,7 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 - Sigur Ros - ( )
 - Sigur Ros - Kveikur
 - Sister Irene O'Connor - Fire of God's Love
+- Stan Miłości i Zaufania - Sygnały
 
 ## Książki
 
