@@ -5,8 +5,8 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 ## Różne przedmioty
 
 - szlifierka kątowa
-- ręczny, żarnowy młynek do kawy
 - suszarka do ziół
+- rękawice śniegowe
 
 ## Płyty CD
 
@@ -21,13 +21,13 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 - Jethro Tull - Aqualung
 - Kazik i Kwartet ProForma - Tata Kazika kontra Hedora
 - Naiv - Naiv
-- Naiv - Przedświt
 - Osiris - Osiris
 - Osiris - Myth & Legend 
 - Osiris - Reflection
 - Osiris - Beyond Control
 - Osiris - Visions from the Past
 - Osiris - Tales of The Divers
+- Pink Floyd - The Wall
 - Pink Floyd - Wish You Were Here
 - Renaissance - Prologue
 - Renaissance - Ashes Are Burning
@@ -39,6 +39,7 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 - Sigur Ros - Kveikur
 - Sister Irene O'Connor - Fire of God's Love
 - Stan Miłości i Zaufania - Sygnały
+- Wishbone Ash - There's the Rub
 
 ## Książki
 
