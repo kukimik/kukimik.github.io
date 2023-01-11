@@ -6,7 +6,6 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 
 - szlifierka kątowa
 - suszarka do ziół
-- rękawice śniegowe
 
 ## Płyty CD
 
