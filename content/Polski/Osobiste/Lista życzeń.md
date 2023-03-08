@@ -4,7 +4,6 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 
 ## Różne przedmioty
 
-- szlifierka kątowa
 - suszarka do ziół
 
 ## Płyty CD
@@ -38,7 +37,6 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 - Sigur Ros - Kveikur
 - Sister Irene O'Connor - Fire of God's Love
 - Stan Miłości i Zaufania - Sygnały
-- Wishbone Ash - There's the Rub
 
 ## Książki
 
