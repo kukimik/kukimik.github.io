@@ -36,7 +36,6 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 - Sigur Ros - ( )
 - Sigur Ros - Kveikur
 - Sister Irene O'Connor - Fire of God's Love
-- Stan Miłości i Zaufania - Sygnały
 
 ## Książki
 
