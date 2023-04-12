@@ -4,6 +4,7 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 
 ## Różne przedmioty
 
+- smartphone (głównie do użytku w podróży: zakupy biletów, mapa, sprawdzanie rozkładów jazdy etc.)
 - suszarka do ziół
 
 ## Płyty CD
@@ -16,6 +17,15 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 - Farben Lehre - Garażówka
 - Farben Lehre - Atomowe zabawki
 - Farben Lehre - Pozytywka
+- Fren - All The Pretty Days
+- Fren - Where Do You Want Ghosts to Reside
+- Gryphon - Gryphon
+- Gryphon - Midnight Mushrumps
+- Gryphon - Red Queen to Gryphon Three
+- Gryphon - Raindance
+- Gryphon - Treason
+- Gryphon - ReInvention
+- Gryphon - Get Out Of My Father's Car!
 - Jethro Tull - Aqualung
 - Kazik i Kwartet ProForma - Tata Kazika kontra Hedora
 - Naiv - Naiv
@@ -36,6 +46,7 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 - Sigur Ros - ( )
 - Sigur Ros - Kveikur
 - Sister Irene O'Connor - Fire of God's Love
+- Strefa Niskich Ciśnień - Hyperborea
 
 ## Książki
 
