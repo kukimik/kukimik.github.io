@@ -26,3 +26,14 @@ Spisywać życzenia/marzenia dziecka na liście (np. jeśli w sklepie z zabawkam
 * Pokazuje to, że rodzic akceptuje pragnienia dziecka.
 * Lista może się przydać przy kupowaniu prezentu.
 
+## Wyrazić uczucia przy pomocy sztuki
+
+* Spróbować narysować to co czuje dziecko. (Np. smutna mina.)
+* Pozwolić dziecku dopowiedzieć czego na rysunku brakuje; dorysować to. (Np. "dorysuj łzę, i drugą, i kolejną wielką".)
+
+# Uwagi
+
+## O emocjach mów wczuwając się, z dramatyzmem
+
+* Nie mów w spokojny sposób o silnych emocjach dziecka. Np. powiedziane słodkim, spokojnym tonem "widzę, że jesteś wściekły" nie pomoże. Brzmi to fałszywie, jak próba uspokojenia. Brakuje zgodności komunikatu werbalnego z niewerbalnym.
+* Emocje dziecka są gwałtowne. Zdobądź się na dramatyzm. Pewna hiperbolizacja pozwala obrócić sytuację w żart. (Np. "chciałbyś jeździć na tym rowerze cały czas; cały dzień i noc; nawet kiedy jesz i śpisz; nawet kiedy pływasz pod wodą na basenie...")
