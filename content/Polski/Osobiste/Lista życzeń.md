@@ -4,11 +4,11 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 
 ## Różne przedmioty
 
-- smartphone (głównie do użytku w podróży: zakupy biletów, mapa, sprawdzanie rozkładów jazdy etc.)
 - suszarka do ziół
 
 ## Płyty CD
 
+- Ay-Kherel - The Music of Tuva
 - Farben Lehre - Bez pokory
 - Farben Lehre - My maszyny
 - Farben Lehre - Nierealne ogniska
@@ -17,8 +17,6 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 - Farben Lehre - Garażówka
 - Farben Lehre - Atomowe zabawki
 - Farben Lehre - Pozytywka
-- Fren - All The Pretty Days
-- Fren - Where Do You Want Ghosts to Reside
 - Gryphon - Gryphon
 - Gryphon - Midnight Mushrumps
 - Gryphon - Red Queen to Gryphon Three
@@ -29,6 +27,11 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 - Jethro Tull - Aqualung
 - Kazik i Kwartet ProForma - Tata Kazika kontra Hedora
 - Naiv - Naiv
+- Om - Variations on a Theme
+- Om - Conference of the Birds
+- Om - Pilgrimage
+- Om - God Is Good
+- Om - Advaitic Songs
 - Osiris - Osiris
 - Osiris - Myth & Legend 
 - Osiris - Reflection
@@ -51,6 +54,7 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 ## Książki
 
 - Joseph Malegue - Augustyn albo Pan jest tu
+- Scott N. Walck - Learn Physics with Functional Programming: A Hands-on Guide to Exploring Physics with Haskell
 
 ## Wsparcie instytucji charytatywnej
 
