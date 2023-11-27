@@ -4,7 +4,7 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 
 ## Różne przedmioty
 
-- suszarka do ziół
+<!-- - suszarka do ziół -->
 
 ## Płyty CD
 
@@ -23,7 +23,7 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 - Gryphon - Raindance
 - Gryphon - Treason
 - Gryphon - ReInvention
-- Gryphon - Get Out Of My Father's Car!
+- Gryphon - Get Out Of My Father's  Car!
 - Jethro Tull - Aqualung
 - Kazik i Kwartet ProForma - Tata Kazika kontra Hedora
 - Naiv - Naiv
@@ -49,10 +49,11 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 - Sigur Ros - ( )
 - Sigur Ros - Kveikur
 - Sister Irene O'Connor - Fire of God's Love
-- Strefa Niskich Ciśnień - Hyperborea
+- Strefa Niskich Ciśnień - Hyperborea (płyta dostępna [tutaj](https://rawick8.wixsite.com/strojownia/kopia-galeria-1))
 
 ## Książki
 
+- Aleksandra Halarewicz - Atlas ziół lub Arkadiusz Iwaniuk - Atlas ziół krajowych
 - Joseph Malegue - Augustyn albo Pan jest tu
 - Scott N. Walck - Learn Physics with Functional Programming: A Hands-on Guide to Exploring Physics with Haskell
 
