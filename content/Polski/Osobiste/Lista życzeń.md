@@ -9,6 +9,7 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 ## Płyty CD
 
 - Ay-Kherel - The Music of Tuva
+- Big Brother and the Holding Company - Cheap Thrills
 - Farben Lehre - Bez pokory
 - Farben Lehre - My maszyny
 - Farben Lehre - Nierealne ogniska
