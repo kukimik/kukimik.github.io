@@ -50,6 +50,7 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 - Sigur Ros - ( )
 - Sigur Ros - Kveikur
 - Sister Irene O'Connor - Fire of God's Love
+- Stare Dobre Małżeństwo - Missa Pagana
 - Strefa Niskich Ciśnień - Hyperborea (płyta dostępna [tutaj](https://rawick8.wixsite.com/strojownia/kopia-galeria-1))
 
 ## Książki
