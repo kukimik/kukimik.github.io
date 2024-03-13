@@ -41,6 +41,7 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 - Osiris - Tales of The Divers
 - Pink Floyd - The Wall
 - Pink Floyd - Wish You Were Here
+- Rashanim - Shalosh
 - Renaissance - Prologue
 - Renaissance - Ashes Are Burning
 - Renaissance - Turn of the Cards
