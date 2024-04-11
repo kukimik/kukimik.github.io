@@ -40,7 +40,6 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 - Osiris - Visions from the Past
 - Osiris - Tales of The Divers
 - Pink Floyd - The Wall
-- Pink Floyd - Wish You Were Here
 - Rashanim - Shalosh
 - Renaissance - Prologue
 - Renaissance - Ashes Are Burning
@@ -56,9 +55,8 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 
 ## Książki
 
-- Aleksandra Halarewicz - Atlas ziół lub Arkadiusz Iwaniuk - Atlas ziół krajowych
+<!-- - Arkadiusz Iwaniuk - Atlas ziół krajowych -->
 - Joseph Malegue - Augustyn albo Pan jest tu
-- Scott N. Walck - Learn Physics with Functional Programming: A Hands-on Guide to Exploring Physics with Haskell
 
 ## Wsparcie instytucji charytatywnej
 
