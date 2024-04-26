@@ -27,6 +27,7 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 - Gryphon - Get Out Of My Father's  Car!
 - Jethro Tull - Aqualung
 - Kazik i Kwartet ProForma - Tata Kazika kontra Hedora
+- Kontraburger - Kontraburger
 - Naiv - Naiv
 - Om - Variations on a Theme
 - Om - Conference of the Birds
