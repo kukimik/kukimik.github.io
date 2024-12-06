@@ -4,12 +4,17 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 
 ## Różne przedmioty
 
-<!-- - suszarka do ziół -->
+- Ładowarka USB do gniazda zaplaniczki
 
 ## Płyty CD
 
+- The Allman Brothers Band - At Fillmore East
 - Ay-Kherel - The Music of Tuva
 - Big Brother and the Holding Company - Cheap Thrills
+- Bill Withers - Just As I Am
+- Breakout - Blues
+- Elvis Presley - Elvis Presley
+- The Enid - Aerie Faerie Nonsense
 - Farben Lehre - Bez pokory
 - Farben Lehre - My maszyny
 - Farben Lehre - Nierealne ogniska
@@ -25,9 +30,14 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 - Gryphon - Treason
 - Gryphon - ReInvention
 - Gryphon - Get Out Of My Father's  Car!
+- Janis Joplin - I Got Dem Ol’ Kozmic Blues Again Mama!
+- Janis Joplin - Pearl
 - Jethro Tull - Aqualung
 - Kazik i Kwartet ProForma - Tata Kazika kontra Hedora
 - Kontraburger - Kontraburger
+- Kwartet ProForma - Leonard Cohen. Wiemy, kim jest
+- Kwartet ProForma - Na końcu świta
+- Melanie - Candles in the Rain
 - Naiv - Naiv
 - Om - Variations on a Theme
 - Om - Conference of the Birds
@@ -42,17 +52,20 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 - Osiris - Tales of The Divers
 - Pink Floyd - The Wall
 - Rashanim - Shalosh
+- Rashanim - The Gathering
 - Renaissance - Prologue
 - Renaissance - Ashes Are Burning
 - Renaissance - Turn of the Cards
 - Renaissance - Scheherazade and Other Stories
 - Renaissance - A Song for All Seasons
+- Santana - Abraxas
 - Sigur Ros - Ágætis byrjun
 - Sigur Ros - ( )
 - Sigur Ros - Kveikur
 - Sister Irene O'Connor - Fire of God's Love
 - Stare Dobre Małżeństwo - Missa Pagana
 - Strefa Niskich Ciśnień - Hyperborea (płyta dostępna [tutaj](https://rawick8.wixsite.com/strojownia/kopia-galeria-1))
+- Wishbone Ash - Here Comes the Rub
 
 ## Książki
 
