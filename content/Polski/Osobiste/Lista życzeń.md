@@ -4,7 +4,7 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 
 ## Różne przedmioty
 
-- Ładowarka USB do gniazda zaplaniczki
+- ...
 
 ## Płyty CD
 
