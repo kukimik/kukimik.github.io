@@ -13,6 +13,9 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 - Big Brother and the Holding Company - Cheap Thrills
 - Bill Withers - Just As I Am
 - Breakout - Blues
+- Caravan - If I Could Do It All Over Again, I'd Do It All Over You
+- Chicago - Chicago II
+- David Matthews – Dune
 - Elvis Presley - Elvis Presley
 - The Enid - Aerie Faerie Nonsense
 - Farben Lehre - Bez pokory
@@ -63,6 +66,7 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 - Sigur Ros - ( )
 - Sigur Ros - Kveikur
 - Sister Irene O'Connor - Fire of God's Love
+- Solaris - Nostradamus Book Of Prophecies
 - Stare Dobre Małżeństwo - Missa Pagana
 - Strefa Niskich Ciśnień - Hyperborea (płyta dostępna [tutaj](https://rawick8.wixsite.com/strojownia/kopia-galeria-1))
 - Wishbone Ash - Here Comes the Rub
