@@ -8,6 +8,7 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 
 ## Płyty CD
 
+- Afenginn - Reptilica Polaris
 - The Allman Brothers Band - At Fillmore East
 - Ay-Kherel - The Music of Tuva
 - Big Brother and the Holding Company - Cheap Thrills
@@ -66,6 +67,7 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 - Sigur Ros - ( )
 - Sigur Ros - Kveikur
 - Sister Irene O'Connor - Fire of God's Love
+- Solaris - Marsbéli Krónikák
 - Solaris - Nostradamus Book Of Prophecies
 - Stare Dobre Małżeństwo - Missa Pagana
 - Strefa Niskich Ciśnień - Hyperborea (płyta dostępna [tutaj](https://rawick8.wixsite.com/strojownia/kopia-galeria-1))
