@@ -9,15 +9,11 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 ## Płyty CD
 
 - Afenginn - Reptilica Polaris
-- The Allman Brothers Band - At Fillmore East
 - Ay-Kherel - The Music of Tuva
 - Big Brother and the Holding Company - Cheap Thrills
 - Bill Withers - Just As I Am
-- Breakout - Blues
 - Caravan - If I Could Do It All Over Again, I'd Do It All Over You
-- Chicago - Chicago II
 - David Matthews – Dune
-- Elvis Presley - Elvis Presley
 - The Enid - Aerie Faerie Nonsense
 - Farben Lehre - Bez pokory
 - Farben Lehre - My maszyny
@@ -36,7 +32,6 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 - Gryphon - Get Out Of My Father's  Car!
 - Janis Joplin - I Got Dem Ol’ Kozmic Blues Again Mama!
 - Janis Joplin - Pearl
-- Jethro Tull - Aqualung
 - Kazik i Kwartet ProForma - Tata Kazika kontra Hedora
 - Kontraburger - Kontraburger
 - Kwartet ProForma - Leonard Cohen. Wiemy, kim jest
@@ -48,12 +43,12 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 - Om - Pilgrimage
 - Om - God Is Good
 - Om - Advaitic Songs
-- Osiris - Osiris
+<!-- - Osiris - Osiris
 - Osiris - Myth & Legend 
 - Osiris - Reflection
 - Osiris - Beyond Control
 - Osiris - Visions from the Past
-- Osiris - Tales of The Divers
+- Osiris - Tales of The Divers -->
 - Pink Floyd - The Wall
 - Rashanim - Shalosh
 - Rashanim - The Gathering
@@ -71,12 +66,13 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 - Solaris - Nostradamus Book Of Prophecies
 - Stare Dobre Małżeństwo - Missa Pagana
 - Strefa Niskich Ciśnień - Hyperborea (płyta dostępna [tutaj](https://rawick8.wixsite.com/strojownia/kopia-galeria-1))
-- Wishbone Ash - Here Comes the Rub
+- Wishbone Ash - There's the Rub
 
 ## Książki
 
 <!-- - Arkadiusz Iwaniuk - Atlas ziół krajowych -->
 - Joseph Malegue - Augustyn albo Pan jest tu
+- John Ronald Reuel Tolkien - Hobbit
 
 ## Wsparcie instytucji charytatywnej
 
