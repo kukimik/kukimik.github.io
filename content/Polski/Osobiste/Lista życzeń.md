@@ -60,7 +60,6 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 - Santana - Abraxas
 - Sigur Ros - Ágætis byrjun
 - Sigur Ros - ( )
-- Sigur Ros - Kveikur
 - Sister Irene O'Connor - Fire of God's Love
 - Solaris - Marsbéli Krónikák
 - Solaris - Nostradamus Book Of Prophecies
@@ -72,7 +71,6 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 
 <!-- - Arkadiusz Iwaniuk - Atlas ziół krajowych -->
 - Joseph Malegue - Augustyn albo Pan jest tu
-- John Ronald Reuel Tolkien - Hobbit
 
 ## Wsparcie instytucji charytatywnej
 
