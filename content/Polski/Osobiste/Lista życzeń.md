@@ -12,7 +12,12 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 - Ay-Kherel - The Music of Tuva
 - Big Brother and the Holding Company - Cheap Thrills
 - Bill Withers - Just As I Am
+- Bill Withers - Live at Carnegie Hall
+- Boney M - Nightflight to Venus
 - Caravan - If I Could Do It All Over Again, I'd Do It All Over You
+- Circus - Movin' On
+- Cracow Klezmer Band - Bereshit
+- Cracow Klezmer Band - Warriors
 - David Matthews – Dune
 - The Enid - Aerie Faerie Nonsense
 - Farben Lehre - Bez pokory
@@ -30,6 +35,7 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 - Gryphon - Treason
 - Gryphon - ReInvention
 - Gryphon - Get Out Of My Father's  Car!
+- Hizbut Jámm - Hizbut Jámm
 - Janis Joplin - I Got Dem Ol’ Kozmic Blues Again Mama!
 - Janis Joplin - Pearl
 - Kazik i Kwartet ProForma - Tata Kazika kontra Hedora
@@ -38,7 +44,6 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 - Kwartet ProForma - Na końcu świta
 - Melanie - Candles in the Rain
 - Naiv - Naiv
-- Om - Variations on a Theme
 - Om - Conference of the Birds
 - Om - Pilgrimage
 - Om - God Is Good
@@ -49,6 +54,7 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 - Osiris - Beyond Control
 - Osiris - Visions from the Past
 - Osiris - Tales of The Divers -->
+- The Paul Butterfield Blues Band - The Paul Butterfield Blues Band (nie pogardzę też zestawem w rodzaju Original Album Series: The Paul Butterfield Blues Band)
 - Pink Floyd - The Wall
 - Rashanim - Shalosh
 - Rashanim - The Gathering
@@ -65,6 +71,8 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 - Solaris - Nostradamus Book Of Prophecies
 - Stare Dobre Małżeństwo - Missa Pagana
 - Strefa Niskich Ciśnień - Hyperborea (płyta dostępna [tutaj](https://rawick8.wixsite.com/strojownia/kopia-galeria-1))
+- Tom Waits - Bone Machine
+- Tom Waits - Rain Dogs
 - Wishbone Ash - There's the Rub
 
 ## Książki
