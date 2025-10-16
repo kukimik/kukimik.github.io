@@ -13,6 +13,7 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 - Big Brother and the Holding Company - Cheap Thrills
 - Bill Withers - Just As I Am
 - Bill Withers - Live at Carnegie Hall
+- Bob Dylan - Blood on the Tracks
 - Boney M - Nightflight to Venus
 - Caravan - If I Could Do It All Over Again, I'd Do It All Over You
 - Circus - Movin' On
@@ -35,6 +36,7 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 - Gryphon - Treason
 - Gryphon - ReInvention
 - Gryphon - Get Out Of My Father's  Car!
+- Haustor - Tajni Grad
 - Hizbut Jámm - Hizbut Jámm
 - Janis Joplin - I Got Dem Ol’ Kozmic Blues Again Mama!
 - Janis Joplin - Pearl
@@ -42,12 +44,14 @@ Chcesz zrobić mi prezent, a nie wiesz, co można mi podarować? Poniżej aktual
 - Kontraburger - Kontraburger
 - Kwartet ProForma - Leonard Cohen. Wiemy, kim jest
 - Kwartet ProForma - Na końcu świta
+- Mako Sica - Invocation
 - Melanie - Candles in the Rain
 - Naiv - Naiv
 - Om - Conference of the Birds
 - Om - Pilgrimage
 - Om - God Is Good
 - Om - Advaitic Songs
+- Opla - Obertasy
 <!-- - Osiris - Osiris
 - Osiris - Myth & Legend 
 - Osiris - Reflection
